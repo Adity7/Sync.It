@@ -25,4 +25,25 @@ Our project uses following tools:
 - Mongo DB/Mongoose
 - JS libraries such as JQuery etc
 
+# Installation Guide
+## Install all the required node modules using the
+$ npm install
+command in terminal in appropriate directory.
+## To run the program use the following commands respectively
+$ npm start
+$ npm run dev 
+# Available Features
+- [ ] Create account
+- [ ] Login to your account
+- [ ] Secure Authentication 
+- [ ] Socialize with friends
+- [ ] Make groups
+- [ ] Chat with people
+- [ ] Add profile pictures
+- [ ] Add Group pictures
+- [ ] Create rooms
+- [ ] Video Call
+- [ ] Mute/Unmute and Start/Stop User Video
+- [ ] Stream offline videos with real-time sync (Watch Party)
+- [ ] Chat with friends while streaming
 
