@@ -14,7 +14,7 @@
 - A log-out option is also provided to logout safely.
   
 - **It will create a localhost server on your device using which you will be able to enjoy the various features**
-- **It will redirect you to appropriate webpages hosted by us on the internet using the herokuapp for some features.**
+- **It will redirect you to appropriate webpages hosted by us on the internet using the render for some features.**
   
 ### For a more detailed user guide please refer to the demo video and slides. ###
 
