@@ -47,3 +47,6 @@ $ npm run dev
 - [ ] Stream offline videos with real-time sync (Watch Party)
 - [ ] Chat with friends while streaming
 
+### Link for WatchTogether hosted online
+-https://virat-4cfd.onrender.com/
+
