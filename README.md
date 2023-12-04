@@ -12,6 +12,11 @@
 - After successful log-in, he/she will land to dashboard which contains general profile settings, chatting options and a watch-party button
 - WatchParty onclick directs to a video streaming player with robust video-audio calling facility and side by side chatting option.
 - A log-out option is also provided to logout safely.
+  
+- **It will create a localhost server on your device using which you will be able to enjoy the various features**
+- **It will redirect you to appropriate webpages hosted by us on the internet using the herokuapp for some features.**
+  
+### For a more detailed user guide please refer to the demo video and slides. ###
 
 
 ### Technology used: ###
